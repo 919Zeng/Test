@@ -1,0 +1,40 @@
+#menumain{
+    margin:0;
+    white-space:nowrap;
+    overflow:hidden;
+    height:39px;
+}
+
+#menumain .mainmenuiner {
+    height:39px;
+    padding:0;
+    line-height:39px;
+    overflow: hidden;
+    margin:0px;
+}
+
+#menumain a.menumain:link,#menumain a.menumain:active,#menumain a.menumain:visited{
+    display:block;
+    float:left;
+    height:39px;
+    text-decoration: none;
+    text-align:center;
+    width:80px;
+    color:#fff;
+    font:12px/43px 'SimSun',Arial,Sans-Serif;
+    margin:0px;
+}
+
+
+div #menumain a.menumain:hover{
+    display:block;
+    float:left;
+    height:39px;
+    color:#464646;
+    text-decoration: none;
+    text-align:center;
+    width:80px;
+    font:12px/39px 'SimSun',Arial,Sans-Serif;
+    margin:0px;
+    background:url(http://www.yx1178.com/menu/templates/images/mainmenu_dolphin/menunow.jpg) 0px 0px no-repeat;
+}

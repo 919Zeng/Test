@@ -1,0 +1,24 @@
+/* ============分类列表============== */
+
+div.productclass_dolphin{
+    margin:0px;
+    padding:12px 0px 20px 3px;
+}
+
+a.productclass_dolphin:link,a.productclass_dolphin:visited,a.productclass_dolphin:active{
+    display:block;
+    text-decoration: none;
+    font:12px/25px Verdana, Arial, Helvetica, sans-serif;
+    height:24px;
+    text-align:left;
+    background:url(http://www.yx1178.com/product/templates/images/dot2.gif) 0px 0px no-repeat;
+    padding-left:20px;
+    margin:0px;
+    color:#7a7a7a;
+}
+
+a.productclass_dolphin:hover{
+    display:block;
+    color:#e10000;
+    text-decoration: none;
+}

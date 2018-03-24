@@ -1,0 +1,80 @@
+/* ============搜索表单============== */
+div.newssearchformzone{
+    height:100%;
+    margin:0px;
+    padding:22px 0px 40px 8px;
+}
+
+div.newssearchformzone div.newssearchform{
+    height: 20px;
+    line-height:18px;
+    margin-top:4px;
+    padding:0px;
+}
+
+div.newssearchformzone div.newssearchform .inputtext{
+    border:1px #7a7a7a solid;
+    height:18px;
+    line-height:17px;
+    background:#2b2b2b;
+    color:#c4c4c4;
+}
+div.newssearchformzone div.newssearchform2{
+    height: 20px;
+    line-height:18px;
+    padding-top:5px;
+    margin-top:3px;
+}
+
+div.newssearchformzone div.newssearchform .box{
+    BORDER: #e3e9ef 1px solid;
+    FONT-SIZE: 12px;
+    color:#c4c4c4;
+    FONT-FAMILY: "verdna";
+}
+
+div.newssearchformzone div.newssearchform .selectBoxSelectedArea {
+    PADDING-LEFT: 3px;
+    FONT-SIZE: 12px;
+    COLOR: #c4c4c4;
+    LINE-HEIGHT: 16px;
+    PADDING-TOP: 0px;
+    BACKGROUND-COLOR:#2b2b2b;
+}
+div.newssearchformzone div.newssearchform .selectBoxSelectedAreaFocus {
+    PADDING-LEFT: 3px;
+    FONT-SIZE: 12px;
+    COLOR: #c4c4c4;
+    LINE-HEIGHT: 17px;
+    PADDING-TOP: 1px;
+    BACKGROUND-COLOR: #2b2b2b;
+}
+div.newssearchformzone div.newssearchform .selectBoxOption {
+    PADDING-LEFT: 3px;
+    FONT-SIZE: 12px;
+    COLOR: #c4c4c4;
+    LINE-HEIGHT: 16px;
+    PADDING-TOP: 0px;
+    BACKGROUND-COLOR: #2b2b2b;
+
+}
+div.newssearchformzone div.newssearchform .selectBoxOptionOver {
+    PADDING-LEFT: 3px;
+    FONT-SIZE: 12px;
+    COLOR: #c4c4c4;
+    LINE-HEIGHT: 17px;
+    PADDING-TOP: 2px;
+    BACKGROUND-COLOR: #2b2b2b;
+}
+div.newssearchformzone div.newssearchform .selectBoxOptionInnerLayer {
+    border:1px #7a7a7a solid;
+    SCROLLBAR-FACE-COLOR: #ffffff;
+    SCROLLBAR-HIGHLIGHT-COLOR: #b4b4b4;
+    OVERFLOW: auto;
+    SCROLLBAR-SHADOW-COLOR: #b4b4b4;
+    SCROLLBAR-3DLIGHT-COLOR: #ffffff;
+    SCROLLBAR-ARROW-COLOR: #838383;
+    SCROLLBAR-TRACK-COLOR: #eaeaea;
+    SCROLLBAR-DARKSHADOW-COLOR: #ffffff;
+    BACKGROUND-COLOR: #2b2b2b;
+}

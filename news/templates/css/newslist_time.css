@@ -1,0 +1,32 @@
+/* ============文章列表============== */
+
+ul.newslist_time{
+    margin:0px;
+    padding:0px;
+}
+
+li.newslist_time {
+    margin:0px;
+    padding-left:15px;
+    list-style-type: none;
+    height:25px;
+    background: transparent url(http://www.yx1178.com/news/templates/images/listt.gif) 0px 0px no-repeat;
+}
+
+li.newslist_time .time{
+    float:right;
+    font:10px/13px Verdana, Arial, Helvetica, sans-serif;
+    color:#747474;
+    padding:0px;
+}
+
+a.newslist_time:link,a.newslist_time:visited,a.newslist_time:active{
+    color:#747474;
+    text-decoration: none;
+    font:12px/15px Verdana, Arial, Helvetica, sans-serif;
+}
+
+a.newslist_time:hover{
+    color:#e10000;
+    font:12px/15px Verdana, Arial, Helvetica, sans-serif;
+}
